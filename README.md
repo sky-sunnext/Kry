@@ -1,79 +1,57 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## Open-Source Project Included
+### react-native-blurhash
+模糊占位
 
-# Getting Started
+## react-native-animated-rolling-numbers
+动态滚动数字
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## react-native-compressor
+快速图片、视频压缩
 
-## Step 1: Start the Metro Server
+## react-native-error-boundary
+组件错误处理
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## react-native-flexible-grid
+瀑布流
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## react-native-gallery-preview
+图片预览
 
-```bash
-# using npm
-npm start
+## react-native-gifted-charts
+图标
 
-# OR using Yarn
-yarn start
-```
+## react-native-lz4
+LZ4算法库
 
-## Step 2: Start your Application
+## react-native-reanimated-carousel
+轮播图
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+## react-native-screenshot-aware
+监听截屏
 
-### For Android
+## react-native-share
+分享
 
-```bash
-# using npm
-npm run android
+## react-native-vision-camera
+相机
 
-# OR using Yarn
-yarn android
-```
+## sonner-native
+Toast实现
 
-### For iOS
+## @10play/tentap-editor
+编辑器
 
-```bash
-# using npm
-npm run ios
+## @d11/react-native-fast-image
+快速显示图片
 
-# OR using Yarn
-yarn ios
-```
+## @korekoi/react-native-get-random-values
+快速随机数
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+## @mgcrea/react-native-dnd
+拖拽
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+## @nozbe/watermelondb
+数据库
 
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## @shopify/flash-list
+列表
